@@ -1,0 +1,19 @@
+{
+  "name": "azure-tts-node-js",
+  "version": "1.0.0",
+  "description": "A Node.js project integrating Azure Text-to-Speech (TTS) using the Microsoft Cognitive Services Speech SDK.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aravindhfinix/azure-tts-node-js"
+  },
+  "author": "Aravindh",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "microsoft-cognitiveservices-speech-sdk": "^1.16.0"
+  }
+}
