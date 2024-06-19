@@ -1,5 +1,3 @@
-You're absolutely right! I apologize for the omission. Here's the updated README with the `npm start` script included:
-
 **azure-tts-node-js**
 
 **Description**
